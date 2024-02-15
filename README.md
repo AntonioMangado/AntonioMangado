@@ -12,12 +12,12 @@
 const spaniard = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Astro, Node, Tailwind, SASS, Cypress, Docker],
+  tools: [React, Astro, Tailwind, SASS, Node, Express, MongoDB, PostgreSQL, Cypress, Docker],
   architecture: "model and view",
   challenge: ["currently going through FreeCodeCamp certifications", "learning Python"]
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat it out!</b> :)</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>I love connecting with different people</b> .If you want to say <b>hi, I'll be happy to chat!</b> :)</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 ---
